@@ -1,0 +1,27 @@
+{
+  "name": "next-lerna-version",
+  "version": "1.0.0",
+  "description": "export NEXT_LERNA_VERSION=lerna.version+0.0.1",
+  "main": "bin/next-lerna-version.js",
+  "bin": {
+    "next-lerna-version": "./bin/next-lerna-version.js"
+  },
+  "scripts": {
+    "test": "echo \"ok\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCheater/next-lerna-version.git"
+  },
+  "keywords": [
+    "lerna",
+    "next",
+    "version"
+  ],
+  "author": "Mr.Cheater (Zhukov Anton)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrCheater/next-lerna-version/issues"
+  },
+  "homepage": "https://github.com/MrCheater/next-lerna-version#readme"
+}
